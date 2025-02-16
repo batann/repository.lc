@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository>
+    <name>repository.lc</name>
+    <url>https://github.com/batann/repository.lc</url>
+    <files>
+        <file>
+            <name>icon.png</name>
+            <url>https://github.com/batann/repository.lc/raw/main/icon.png</url>
+        </file>
+        <file>
+            <name>README.md</name>
+            <url>https://github.com/batann/repository.lc/raw/main/README.md</url>
+        </file>
+    </files>
+    <zips>
+        <zip>
+            <name>adlghmaster.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/adlghmaster.zip</url>
+        </zip>
+        <zip>
+            <name>adl.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/adl.zip</url>
+        </zip>
+        <zip>
+            <name>aussie.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/aussie.zip</url>
+        </zip>
+        <zip>
+            <name>southpaw.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/southpaw.zip</url>
+        </zip>
+        <zip>
+            <name>thecrew.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/thecrew.zip</url>
+        </zip>
+        <zip>
+            <name>xbmcadl.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/xbmcadl.zip</url>
+        </zip>
+        <zip>
+            <name>zachmorris.zip</name>
+            <url>https://github.com/batann/repository.lc/raw/main/zips/zachmorris.zip</url>
+        </zip>
+    </zips>
+</repository>
